@@ -2,6 +2,7 @@
 clear all
 close all
 addpath(genpath('~/octave'),genpath('~/prog/octave'));
+disp('Dummy message')
 
 path_name='/home/stephane/DATA/ON/Earthquakes/Ev_from_SC3/2012/2012_12_19_04_54_37_700/';
 % List all the files for that directory
