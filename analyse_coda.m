@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 clear all
 close all
@@ -117,4 +116,3 @@ end
 fclose(fid_out);
 fclose(fid_outd);
 fclose(fid_outv);
->>>>>>> michel
