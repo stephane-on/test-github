@@ -1,6 +1,7 @@
 clear all
-#close all
+close all
 addpath(genpath('~/octave'),genpath('~/prog/octave'));
+disp('Needs some octave-forge extra packages');
 
 % Loop to cycle through 2012 folder
 dirlist=glob("/home/michel/Earthquakes_sac_SC3/2012/2012_*/");
