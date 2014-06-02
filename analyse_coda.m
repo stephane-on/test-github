@@ -1,5 +1,5 @@
 clear all
-close all
+#close all
 addpath(genpath('~/octave'),genpath('~/prog/octave'));
 
 % Loop to cycle through 2012 folder
